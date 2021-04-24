@@ -148,7 +148,7 @@ const markdownOptions: DropdownOption[] = [
 ];
 
 const imageLightOptions: DropdownOption[] = [
-  { text: "SS", value: "https://saurish.com/logos/logo-dark.png" },
+  { text: "SS", value: "https://saurish.com/logos/logo-dark.jpg" },
   {
     text: "Next.js",
     value:
