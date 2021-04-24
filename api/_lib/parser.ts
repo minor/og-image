@@ -56,8 +56,8 @@ function getArray(stringOrArray: string[] | string | undefined): string[] {
 function getDefaultImages(images: string[], theme: Theme): string[] {
   const defaultImage =
     theme === "light"
-      ? "https://saurish.com/static/favicons/favicon.svg"
-      : "https://saurish.com/static/favicons/favicon.svg";
+      ? "https://saurish.com/logos/logo-dark.png"
+      : "https://saurish.com/logos/logo.png";
 
   if (!images || !images[0]) {
     return [defaultImage];

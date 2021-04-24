@@ -148,7 +148,7 @@ const markdownOptions: DropdownOption[] = [
 ];
 
 const imageLightOptions: DropdownOption[] = [
-  { text: "Vercel", value: "https://saurish.com/static/favicons/favicon.svg" },
+  { text: "SS", value: "https://saurish.com/logos/logo-dark.png" },
   {
     text: "Next.js",
     value:
@@ -162,7 +162,7 @@ const imageLightOptions: DropdownOption[] = [
 ];
 
 const imageDarkOptions: DropdownOption[] = [
-  { text: "Vercel", value: "https://saurish.com/static/favicons/favicon.svg" },
+  { text: "SS", value: "https://saurish.com/logos/logo.png" },
   {
     text: "Next.js",
     value:
